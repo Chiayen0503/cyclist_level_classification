@@ -2,7 +2,7 @@ How to setup </br>
 * Download folder ````merging_labels/```` and unzip it to current directory </br>
   [link]:(https://drive.google.com/drive/folders/1y2RzB5JiS-YpDPF43e8l8Itxjc19ECiJ?usp=sharing)
 * Create a folder ````gopro_videos/```` in current directory
-* Download folder ````batch_1/```` and put it in "gopro_videos/" </br>
+* Download folder ````batch_1/```` and put it in ````gopro_videos/```` </br>
   [link]: (https://drive.google.com/file/d/1YWTkk_99bELAXiCn0F1p30rSuiTWLBe5/view?usp=sharing)
 
 How to run notebooks </br>
